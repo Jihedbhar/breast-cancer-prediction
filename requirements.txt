@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 streamlit
 tensorflow
 pickle-mixin
 numpy
 scikit-learn
-=======
-streamlit
-tensorflow
-pickle-mixin
-numpy
->>>>>>> c268343687af104f3878a0a4c55fc5cab61cfb47
